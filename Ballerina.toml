@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.4.1"
+  name = "delete_me_01"
+  org = "dileesharajapakse"
+  version = "0.1.0"
+
